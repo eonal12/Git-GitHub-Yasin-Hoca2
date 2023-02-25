@@ -3,6 +3,7 @@ public class Toplama {
     public static void main(String[] args) {
 
         topla(3,2,5,-10);
+        //V3 Emre çalışmaları...
 
     }
 
